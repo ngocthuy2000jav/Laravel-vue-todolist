@@ -2,7 +2,7 @@
 
 ## About This repo :
 
-this repo is a sample of making api between Laravel 8 (backend) and Vue js 3 (frontend).
+this repo is a sample of making api between Laravel 8 (backend) and Vue js 2 (frontend).
 it is simple todolist app.
 
 ## Project setup
